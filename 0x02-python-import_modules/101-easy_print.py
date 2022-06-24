@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-import print
+import hack_The_Rule
